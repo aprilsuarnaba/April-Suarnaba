@@ -14,7 +14,7 @@
     > I am a NC II passer in CSS (Computer System Servicing). <br />
     > Graduated with-honors at SBNCHS (Santa Barbara National Comprehensive High School) <br />
 📓 SHS <br />
-    > My strand is IT-MAWD (IT-Mobile App and Web Development in Grade 11-STI College Iloilo & Grade 12-STI College Kalibo <br />
+    >Strand: IT-MAWD (IT-Mobile App and Web Development in Grade 11-STI College Iloilo & Grade 12-STI College Kalibo <br />
     > I studied JAVA, C#  and .NET, and SQL. <br />
     > Graduated with-honors. <br />
     
