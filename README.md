@@ -17,7 +17,7 @@
     >Strand: IT-MAWD (IT-Mobile App and Web Development in Grade 11-STI College Iloilo & Grade 12-STI College Kalibo <br />
     
 ###### Socmed Accs <br />
- 🌸 [https://www.instagram.com/april.s__/](IG) <br />
+ 🌸 [IG](https://www.instagram.com/april.s__/) <br />
  🧑FB: https://www.facebook.com/aprilsuar <br />
  *️⃣TWT: https://twitter.com/aprilsuarx  <br />
  
